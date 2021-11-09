@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Teste Github 2
+          Testando o git jovi
         </a>
       </header>
     </div>
